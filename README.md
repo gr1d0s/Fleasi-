@@ -1,3 +1,8 @@
+<img width="1080" height="934" alt="photo_2026-07-31_21-18-51" src="https://github.com/user-attachments/assets/1d64db27-d295-4c99-b836-d91e148a6cdd" />
+
+<img width="1470" height="826" alt="photo_2026-07-31_21-18-47" src="https://github.com/user-attachments/assets/4770dff1-df81-45da-8409-d3e86ff43a67" />
+
+
 <img width="3200" height="3200" alt="sky kl1nken" src="https://github.com/user-attachments/assets/ce71a9d6-0070-4e76-a2b2-6ec12912a5f1" />
 
 <img width="64" height="64" alt="lv_0_20260720044426" src="https://github.com/user-attachments/assets/e9f4ad04-606f-484c-aba1-b3930fcc257b" />
