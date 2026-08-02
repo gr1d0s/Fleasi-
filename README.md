@@ -1,8 +1,3 @@
-<img width="1024" height="1024" alt="я не ебу" src="https://github.com/user-attachments/assets/b40ca02f-73da-4994-9f50-9b9deebcb968" />
-<img width="1024" height="1024" alt="up" src="https://github.com/user-attachments/assets/bb833414-88e0-49a7-bffd-2bc7697dec50" />
-<img width="1024" height="1024" alt="down" src="https://github.com/user-attachments/assets/04e03d3f-c781-4d76-9662-83df730a2c3a" />
-<img width="1024" height="1024" alt="center" src="https://github.com/user-attachments/assets/dc118ffc-094b-455f-a89e-db45ddcb1272" />
-<img width="1024" height="1024" alt="glaw" src="https://github.com/user-attachments/assets/257f6353-c691-478f-b253-1b84633479b4" />
 
 
 
