@@ -1,5 +1,9 @@
 <img width="2500" height="1404" alt="lv_0_20260927154616 (1)" src="https://github.com/user-attachments/assets/36773cd9-dd40-44db-92ac-d0f9f0e49c28" />
 
+
+<img width="1280" height="1280" alt="photo_2026-10-09_17-08-12" src="https://github.com/user-attachments/assets/c2f7c6ec-49e0-42e5-bc29-4e62105d19cb" />
+
+
 <img width="2500" height="2500" alt="photo_2026-09-27_17-37-26" src="https://github.com/user-attachments/assets/1ead801e-eaa7-4b7f-b690-d2deb67c4215" />
 
 
